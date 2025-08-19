@@ -2,14 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import {
-  ArrowRight,
-  Award,
-  Bot,
-  Briefcase,
-  FileQuestion,
-  Globe2,
-} from "lucide-react";
+import { ArrowRight, Award, Bot, FileQuestion, Globe2 } from "lucide-react";
 import HeroSection from "@/components/hero-section";
 import {
   Accordion,
