@@ -9,6 +9,9 @@ const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
 });
 
+export const dynamic = "force-dynamic";
+export const fetchCache = "force-no-store";
+
 export const metadata = {
   title: "Mentora - AI Career Coach",
   description:
